@@ -1,0 +1,3 @@
+- pipeline.id: security-monitoring
+
+  path.config: "/usr/share/logstash/pipeline/security-logstash.conf"
