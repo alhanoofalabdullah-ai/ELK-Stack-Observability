@@ -1,0 +1,15 @@
+filebeat.inputs:
+
+- type: log
+
+  enabled: true
+
+  paths:
+
+    - /var/log/firewall.log
+
+output.logstash:
+
+  hosts:
+
+    - logstash:5044
