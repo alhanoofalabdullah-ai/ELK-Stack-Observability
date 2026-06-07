@@ -1,0 +1,13 @@
+rule_name: Brute Force Attack
+
+condition:
+
+  failed_logins > 10
+
+time_window:
+
+  5_minutes
+
+severity:
+
+  critical
