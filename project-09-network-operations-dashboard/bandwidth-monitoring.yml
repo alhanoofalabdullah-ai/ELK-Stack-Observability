@@ -1,0 +1,15 @@
+filebeat.inputs:
+
+- type: log
+
+  enabled: true
+
+  paths:
+
+    - /var/log/bandwidth.log
+
+output.logstash:
+
+  hosts:
+
+    - logstash:5044
