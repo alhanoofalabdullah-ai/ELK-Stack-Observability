@@ -1,0 +1,19 @@
+incidents:
+
+  critical
+
+  high
+
+  medium
+
+  low
+
+status:
+
+  open
+
+  investigating
+
+  contained
+
+  resolved
