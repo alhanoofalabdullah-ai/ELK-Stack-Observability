@@ -1,0 +1,9 @@
+rule_name: Privilege Escalation
+
+condition:
+
+  unauthorized_admin_access == true
+
+severity:
+
+  critical
