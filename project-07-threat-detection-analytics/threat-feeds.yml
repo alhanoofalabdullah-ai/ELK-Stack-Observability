@@ -1,0 +1,11 @@
+threat_feeds:
+
+  - abuseipdb
+
+  - alienvault_otx
+
+  - malware_domains
+
+  - emerging_threats
+
+  - threatfox
