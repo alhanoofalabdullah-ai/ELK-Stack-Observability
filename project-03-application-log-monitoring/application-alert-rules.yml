@@ -1,0 +1,19 @@
+alerts:
+
+  - name: HighErrorRate
+
+    threshold: 100
+
+    severity: critical
+
+  - name: APIResponseDelay
+
+    threshold: 2000ms
+
+    severity: warning
+
+  - name: ApplicationFailure
+
+    threshold: 1
+
+    severity: critical
