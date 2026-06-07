@@ -1,0 +1,15 @@
+filebeat.inputs:
+
+- type: log
+
+  enabled: true
+
+  paths:
+
+    - C:/Logs/security.log
+
+output.logstash:
+
+  hosts:
+
+    - logstash:5044
