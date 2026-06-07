@@ -1,0 +1,21 @@
+Applications
+
+↓
+
+Filebeat
+
+↓
+
+Logstash
+
+↓
+
+Elasticsearch
+
+↓
+
+Kibana
+
+↓
+
+Operations Team
