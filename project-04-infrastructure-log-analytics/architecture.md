@@ -1,0 +1,21 @@
+Infrastructure Devices
+
+↓
+
+Filebeat
+
+↓
+
+Logstash
+
+↓
+
+Elasticsearch
+
+↓
+
+Kibana
+
+↓
+
+Operations Team
