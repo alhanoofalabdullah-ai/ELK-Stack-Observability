@@ -1,0 +1,21 @@
+alerts:
+
+  - name: CriticalSecurityIncident
+
+    severity: critical
+
+  - name: MultipleFailedLogins
+
+    severity: warning
+
+  - name: MalwareDetected
+
+    severity: critical
+
+  - name: IntrusionAttempt
+
+    severity: critical
+
+  - name: HighRiskScore
+
+    severity: critical
