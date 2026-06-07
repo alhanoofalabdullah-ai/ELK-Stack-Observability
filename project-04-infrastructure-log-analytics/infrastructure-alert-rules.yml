@@ -1,0 +1,25 @@
+alerts:
+
+  - name: HighCPUUsage
+
+    threshold: 90
+
+    severity: critical
+
+  - name: DatabaseFailure
+
+    threshold: 1
+
+    severity: critical
+
+  - name: FirewallThreat
+
+    threshold: 1
+
+    severity: warning
+
+  - name: ServiceDown
+
+    threshold: 1
+
+    severity: critical
