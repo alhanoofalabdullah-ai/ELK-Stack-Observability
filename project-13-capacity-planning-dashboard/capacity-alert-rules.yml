@@ -1,0 +1,21 @@
+alerts:
+
+  - name: CPUCapacityWarning
+
+    severity: warning
+
+  - name: MemoryCapacityWarning
+
+    severity: warning
+
+  - name: StorageCapacityCritical
+
+    severity: critical
+
+  - name: ForecastedCapacityExhaustion
+
+    severity: critical
+
+  - name: InfrastructureGrowthAlert
+
+    severity: warning
