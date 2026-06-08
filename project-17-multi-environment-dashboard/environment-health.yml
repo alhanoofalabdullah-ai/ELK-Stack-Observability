@@ -1,0 +1,9 @@
+environment_metrics:
+
+  environment_health_score
+
+  service_availability
+
+  active_services
+
+  uptime_percentage
