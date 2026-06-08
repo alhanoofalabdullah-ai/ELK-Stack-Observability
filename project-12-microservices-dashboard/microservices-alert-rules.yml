@@ -1,0 +1,21 @@
+alerts:
+
+  - name: ServiceDown
+
+    severity: critical
+
+  - name: APIErrorRateHigh
+
+    severity: warning
+
+  - name: PodFailureDetected
+
+    severity: critical
+
+  - name: DeploymentFailure
+
+    severity: critical
+
+  - name: ContainerResourceExhaustion
+
+    severity: warning
