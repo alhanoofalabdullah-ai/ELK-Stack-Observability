@@ -1,0 +1,9 @@
+forecasting:
+
+  infrastructure_growth_rate
+
+  storage_growth_rate
+
+  resource_consumption_rate
+
+  forecast_accuracy
