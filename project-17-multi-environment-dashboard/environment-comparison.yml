@@ -1,0 +1,9 @@
+comparison_metrics:
+
+  configuration_drift
+
+  performance_difference
+
+  availability_difference
+
+  deployment_difference
