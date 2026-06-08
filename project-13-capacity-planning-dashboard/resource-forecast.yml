@@ -1,0 +1,9 @@
+resource_forecast:
+
+  cpu_forecast
+
+  memory_forecast
+
+  storage_forecast
+
+  network_forecast
