@@ -1,0 +1,9 @@
+build_kpis:
+
+  build_success_rate
+
+  failed_builds
+
+  average_build_duration
+
+  build_frequency
