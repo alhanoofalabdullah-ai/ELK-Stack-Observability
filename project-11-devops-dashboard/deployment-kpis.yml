@@ -1,0 +1,9 @@
+deployment_kpis:
+
+  deployment_success_rate
+
+  deployment_failures
+
+  rollback_count
+
+  deployment_frequency
