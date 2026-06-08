@@ -1,0 +1,9 @@
+availability_metrics:
+
+  uptime_percentage
+
+  downtime_minutes
+
+  availability_target
+
+  service_health
