@@ -1,0 +1,21 @@
+alerts:
+
+  - name: KPIBelowTarget
+
+    severity: warning
+
+  - name: StrategicGoalAtRisk
+
+    severity: critical
+
+  - name: DepartmentPerformanceDecline
+
+    severity: warning
+
+  - name: BusinessHealthScoreLow
+
+    severity: critical
+
+  - name: ExecutiveAttentionRequired
+
+    severity: warning
