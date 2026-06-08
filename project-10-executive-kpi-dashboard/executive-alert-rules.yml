@@ -1,0 +1,21 @@
+alerts:
+
+  - name: RevenueDecline
+
+    severity: critical
+
+  - name: CustomerChurnIncrease
+
+    severity: warning
+
+  - name: FinancialRiskDetected
+
+    severity: critical
+
+  - name: StrategicKPIFailure
+
+    severity: critical
+
+  - name: ExecutiveAttentionRequired
+
+    severity: warning
