@@ -1,0 +1,9 @@
+container_metrics:
+
+  cpu_usage
+
+  memory_usage
+
+  restart_count
+
+  resource_consumption
