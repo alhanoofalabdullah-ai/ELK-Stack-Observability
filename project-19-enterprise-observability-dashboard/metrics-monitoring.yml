@@ -1,0 +1,11 @@
+metrics:
+
+  service_availability
+
+  request_latency
+
+  throughput
+
+  cpu_usage
+
+  memory_usage
