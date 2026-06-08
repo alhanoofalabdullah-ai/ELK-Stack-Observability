@@ -1,0 +1,3 @@
+- pipeline.id: microservices-monitoring
+
+  path.config: "/usr/share/logstash/pipeline/microservices-logstash.conf"
