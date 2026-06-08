@@ -1,0 +1,21 @@
+alerts:
+
+  - name: CriticalErrorDetected
+
+    severity: critical
+
+  - name: LogVolumeSpike
+
+    severity: warning
+
+  - name: AuditViolation
+
+    severity: critical
+
+  - name: SecurityEventDetected
+
+    severity: critical
+
+  - name: InfrastructureFailure
+
+    severity: critical
