@@ -1,0 +1,21 @@
+alerts:
+
+  - name: ProductionServiceDown
+
+    severity: critical
+
+  - name: FailedDeployment
+
+    severity: critical
+
+  - name: ReleaseNotReady
+
+    severity: warning
+
+  - name: EnvironmentDriftDetected
+
+    severity: warning
+
+  - name: CriticalEnvironmentFailure
+
+    severity: critical
