@@ -1,0 +1,9 @@
+correlation_metrics:
+
+  event_correlation
+
+  incident_timeline
+
+  dependency_analysis
+
+  cross_system_events
