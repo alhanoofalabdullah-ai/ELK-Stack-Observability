@@ -1,0 +1,9 @@
+logs:
+
+  application_logs
+
+  infrastructure_logs
+
+  security_logs
+
+  audit_logs
