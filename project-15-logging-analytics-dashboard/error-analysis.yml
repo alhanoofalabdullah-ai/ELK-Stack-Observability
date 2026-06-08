@@ -1,0 +1,9 @@
+error_metrics:
+
+  error_count
+
+  warning_count
+
+  critical_errors
+
+  root_cause_analysis
