@@ -1,9 +1,0 @@
-devops_metrics:
-
-  lead_time_for_changes
-
-  mean_time_to_recovery
-
-  deployment_frequency
-
-  engineering_productivity

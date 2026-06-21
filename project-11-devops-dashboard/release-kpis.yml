@@ -1,9 +1,0 @@
-release_kpis:
-
-  release_frequency
-
-  release_success_rate
-
-  change_failure_rate
-
-  release_stability
