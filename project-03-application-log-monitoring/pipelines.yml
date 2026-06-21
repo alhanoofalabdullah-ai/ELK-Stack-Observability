@@ -1,3 +1,0 @@
-- pipeline.id: application-monitoring
-
-  path.config: "/usr/share/logstash/pipeline/application-logstash.conf"
