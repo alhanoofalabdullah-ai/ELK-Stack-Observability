@@ -1,9 +1,0 @@
-rule_name: Suspicious Login
-
-condition:
-
-  unknown_ip_address == true
-
-severity:
-
-  warning
