@@ -1,9 +1,0 @@
-capacity_thresholds:
-
-  cpu_warning: 80
-
-  memory_warning: 85
-
-  storage_critical: 90
-
-  network_warning: 80
