@@ -1,9 +1,0 @@
-service_health:
-
-  service_availability
-
-  service_status
-
-  health_checks
-
-  response_times

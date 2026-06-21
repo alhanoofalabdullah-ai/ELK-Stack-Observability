@@ -1,9 +1,0 @@
-service_dependencies:
-
-  upstream_services
-
-  downstream_services
-
-  communication_paths
-
-  dependency_health

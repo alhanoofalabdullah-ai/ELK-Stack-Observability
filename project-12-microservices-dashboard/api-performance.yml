@@ -1,9 +1,0 @@
-api_metrics:
-
-  request_volume
-
-  response_time
-
-  error_rate
-
-  throughput
