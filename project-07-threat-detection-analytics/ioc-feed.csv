@@ -1,7 +1,0 @@
-indicator,type,severity
-
-185.220.101.5,ip,critical
-
-malicious-domain.com,domain,high
-
-ransomware.exe,file_hash,critical
