@@ -1,9 +1,0 @@
-traces:
-
-  request_flow
-
-  service_dependencies
-
-  latency_analysis
-
-  distributed_transactions

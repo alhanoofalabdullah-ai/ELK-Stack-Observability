@@ -1,9 +1,0 @@
-service_maps:
-
-  service_relationships
-
-  dependency_chains
-
-  communication_flows
-
-  critical_services
