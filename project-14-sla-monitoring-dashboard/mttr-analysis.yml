@@ -1,9 +1,0 @@
-incident_metrics:
-
-  mttr_hours
-
-  incident_count
-
-  escalation_rate
-
-  resolution_time

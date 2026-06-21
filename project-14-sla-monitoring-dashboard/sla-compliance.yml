@@ -1,9 +1,0 @@
-sla_metrics:
-
-  sla_compliance_percentage
-
-  sla_violations
-
-  service_commitments
-
-  compliance_trend
