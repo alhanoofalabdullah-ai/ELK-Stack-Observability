@@ -1,9 +1,0 @@
-log_metrics:
-
-  total_logs
-
-  logs_per_second
-
-  log_growth_rate
-
-  peak_log_volume
