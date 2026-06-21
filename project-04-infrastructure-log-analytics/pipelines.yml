@@ -1,3 +1,0 @@
-- pipeline.id: infrastructure-monitoring
-
-  path.config: "/usr/share/logstash/pipeline/infrastructure-logstash.conf"
