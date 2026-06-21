@@ -1,5 +1,0 @@
-git add .
-
-git commit -m "add project 02 centralized log collection"
-
-git push
