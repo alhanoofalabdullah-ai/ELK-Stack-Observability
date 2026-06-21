@@ -1,9 +1,0 @@
-deployment_metrics:
-
-  deployments_total
-
-  deployment_failures
-
-  rollback_count
-
-  deployment_duration

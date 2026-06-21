@@ -1,9 +1,0 @@
-release_metrics:
-
-  release_readiness_score
-
-  deployment_success_rate
-
-  failed_tests
-
-  staging_validation
