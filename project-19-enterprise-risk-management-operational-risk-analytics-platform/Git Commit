@@ -1,0 +1,5 @@
+git add .
+
+git commit -m "add project 19 enterprise risk management operational risk analytics platform"
+
+git push
