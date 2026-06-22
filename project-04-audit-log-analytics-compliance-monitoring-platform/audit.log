@@ -1,0 +1,13 @@
+2026-01-01 08:00:00 INFO User Login
+
+2026-01-01 08:15:00 INFO Employee Record Updated
+
+2026-01-01 08:20:00 WARN Privileged Access Granted
+
+2026-01-01 08:35:00 INFO Financial Record Modified
+
+2026-01-01 09:00:00 ERROR Unauthorized Record Access Attempt
+
+2026-01-01 09:10:00 WARN Compliance Policy Violation
+
+2026-01-01 09:15:00 INFO Audit Review Completed
