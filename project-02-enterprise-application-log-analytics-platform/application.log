@@ -1,0 +1,9 @@
+2026-01-01 10:00:00 INFO User Login Successful
+
+2026-01-01 10:05:00 WARN High Memory Usage
+
+2026-01-01 10:10:00 ERROR Database Connection Failed
+
+2026-01-01 10:12:00 INFO Service Recovered
+
+2026-01-01 10:15:00 ERROR API Timeout
