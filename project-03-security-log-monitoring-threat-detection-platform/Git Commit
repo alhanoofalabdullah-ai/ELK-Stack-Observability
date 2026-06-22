@@ -1,0 +1,5 @@
+git add .
+
+git commit -m "add project 03 security log monitoring and threat detection platform"
+
+git push
