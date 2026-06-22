@@ -1,0 +1,13 @@
+2026-01-01 08:00:00 INFO User Login Successful
+
+2026-01-01 08:10:00 INFO Accessed HR Database
+
+2026-01-01 08:15:00 WARN Downloaded 500 Files
+
+2026-01-01 08:20:00 WARN Login From New Country
+
+2026-01-01 08:30:00 ERROR Excessive Sensitive Data Access
+
+2026-01-01 08:40:00 WARN Privilege Escalation Attempt
+
+2026-01-01 08:45:00 INFO User Logged Out
