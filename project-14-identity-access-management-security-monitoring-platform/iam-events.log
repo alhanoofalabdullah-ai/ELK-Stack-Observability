@@ -1,0 +1,13 @@
+2026-01-01 08:00:00 INFO User Login Successful
+
+2026-01-01 08:10:00 WARN Multiple Failed Login Attempts
+
+2026-01-01 08:20:00 INFO MFA Verification Completed
+
+2026-01-01 08:30:00 WARN Dormant Account Detected
+
+2026-01-01 08:40:00 ERROR Privileged Access Policy Violation
+
+2026-01-01 08:50:00 WARN Unauthorized Role Assignment Attempt
+
+2026-01-01 09:00:00 INFO Access Review Completed
