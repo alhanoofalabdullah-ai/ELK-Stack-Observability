@@ -1,0 +1,11 @@
+2026-01-01 08:00:00 WARN Failed Login From 185.45.11.12
+
+2026-01-01 08:02:00 ERROR Malicious Domain Access Detected
+
+2026-01-01 08:05:00 WARN IOC Match Found
+
+2026-01-01 08:07:00 ERROR Ransomware Indicator Detected
+
+2026-01-01 08:10:00 WARN Suspicious Network Connection
+
+2026-01-01 08:12:00 ERROR Threat Intelligence Match Confirmed
