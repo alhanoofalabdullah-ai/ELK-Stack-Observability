@@ -1,0 +1,5 @@
+git add .
+
+git commit -m "add project 20 enterprise grc command center integrated governance analytics platform"
+
+git push
