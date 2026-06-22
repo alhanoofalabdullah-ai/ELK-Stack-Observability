@@ -1,0 +1,5 @@
+git add .
+
+git commit -m "add project 06 user behavior analytics and insider threat detection platform"
+
+git push
