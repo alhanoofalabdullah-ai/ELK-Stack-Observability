@@ -1,0 +1,11 @@
+2026-01-01 08:00:00 HIGH Brute Force Attack Detected
+
+2026-01-01 08:05:00 MEDIUM Suspicious Login Activity
+
+2026-01-01 08:15:00 CRITICAL Malware Infection Detected
+
+2026-01-01 08:20:00 HIGH Privilege Escalation Attempt
+
+2026-01-01 08:25:00 MEDIUM Unauthorized VPN Access
+
+2026-01-01 08:40:00 CRITICAL Data Exfiltration Alert
