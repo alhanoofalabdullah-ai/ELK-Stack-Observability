@@ -1,0 +1,11 @@
+2026-01-01 08:00:00 INFO Transaction Approved Amount=1500
+
+2026-01-01 08:05:00 WARN High Value Transfer Amount=95000
+
+2026-01-01 08:10:00 ERROR Suspicious Transaction Pattern Detected
+
+2026-01-01 08:20:00 WARN Multiple Transfers From Same Account
+
+2026-01-01 08:30:00 ERROR Possible Account Takeover Activity
+
+2026-01-01 08:45:00 INFO Transaction Investigation Started
