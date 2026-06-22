@@ -1,0 +1,11 @@
+2026-01-01 08:00:00 INFO Sensitive File Accessed
+
+2026-01-01 08:10:00 WARN Confidential Document Downloaded
+
+2026-01-01 08:20:00 WARN Large File Transfer Detected
+
+2026-01-01 08:30:00 ERROR Unauthorized Data Sharing Attempt
+
+2026-01-01 08:40:00 ERROR Potential Data Exfiltration Detected
+
+2026-01-01 08:50:00 INFO Investigation Initiated
