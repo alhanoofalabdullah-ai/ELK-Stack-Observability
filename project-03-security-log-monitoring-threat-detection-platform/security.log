@@ -1,0 +1,13 @@
+2026-01-01 08:00:00 INFO User Login Successful
+
+2026-01-01 08:02:00 WARN Failed Login Attempt
+
+2026-01-01 08:03:00 WARN Failed Login Attempt
+
+2026-01-01 08:04:00 WARN Failed Login Attempt
+
+2026-01-01 08:05:00 ERROR Brute Force Attack Detected
+
+2026-01-01 08:06:00 ERROR Unauthorized Access Attempt
+
+2026-01-01 08:10:00 INFO User Account Locked
